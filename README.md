@@ -1,6 +1,6 @@
 # MODE: CREATIVE
 
-For learning and practice ~~or just frolicking around~~
+For learning and practice ~~just frolicking around~~
 <br>
 
 Currently Learning: 
